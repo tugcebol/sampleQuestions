@@ -1,6 +1,4 @@
-package day01;
-
-import java.util.Scanner;
+package week01.sout_syso;
 
 public class P01 {
 
@@ -14,12 +12,10 @@ public class P01 {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Lütfen alanını ve çevresini hesaplamak istediğiniz dairenin yarıçapını girin: ");
-        double yaricap = scanner.nextDouble();
+        double yaricap = 7;
 
         System.out.println("Dairenin çevresi: " + 2 * 3.14 * yaricap +
-                           "\nDairenin alanı: " + 3.14 * yaricap * yaricap );
+                "\nDairenin alanı: " + 3.14 * yaricap * yaricap);
 
     }
 }
