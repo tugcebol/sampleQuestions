@@ -2,9 +2,8 @@ package week01.sout_syso;
 
 public class P02 {
 
-    // Soru-2)   SOUT/SYSO
-    //Dikdortgenin alanini ve cevresini hesaplayan kodu yaziniz.
-    //Ipuclari:
+    // Soru-2) Dikdortgenin alanini ve cevresini hesaplayan kodu yaziniz.
+    // Ipuclari:
     //* Dikdortgenin Cevresi: 2 * (uzun kenar + kisa kenar)
     //* Dikdortgenin Alani : uzun kenar * kisa kenar
 
