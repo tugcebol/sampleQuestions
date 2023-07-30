@@ -1,8 +1,8 @@
-package week02.whileLoop;
+package week02.loops;
 
 import java.util.Scanner;
 
-public class P01 {
+public class P01_whileIleCozum {
 
     // Kullanıcıdan bir isim ve bir karakter girmesini isteyin, ardından isimde karakterin kaç kez tekrarlandığını kontrol edelim.
     // Örnek:
@@ -23,23 +23,18 @@ public class P01 {
         char krktr = scanner.next().charAt(0);
 
         int sayac = 0;
+        int indexSayisi = 0;
 
-        for (int i = 0; i <metin.length() ; i++) {
-
-            if (metin.charAt(i) == krktr){
+        while (indexSayisi < metin.length()) {
+            if (metin.charAt(indexSayisi) == krktr) {
                 sayac++;
             }
+            indexSayisi++;
         }
-
-        if (sayac==0){
+        if (sayac == 0) {
             System.out.println("Girdiğiniz " + krktr + " karakteri metinde hiç geçmiyor.");
-        }else {
+        } else {
             System.out.println("Girdiğiniz " + krktr + " karakteri metinde " + sayac + " kere kullanılmış.");
         }
-
-
-
     }
-
-
 }
