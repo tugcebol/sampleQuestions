@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class P03 {
 
-    // Soru 5-) Kullanıcıdan karenin kenar uzunluğunu alın.
-    // Aldiginiz uzunluklarla karenin alanını ve çevresini hesaplayan kodu yazın.
+    // Soru 5). Kullanıcıdan karenin kenar uzunluğunu alın.
+    //          Aldiginiz uzunluklarla karenin alanını ve çevresini hesaplayan kodu yazın.
 
     public static void main(String[] args) {
 

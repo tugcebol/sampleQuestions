@@ -1,12 +1,12 @@
-package week02.ifStatements;
+package week02.stringManipulation;
 
 import java.util.Scanner;
 
 public class P02_ForLoopIleCozum {
 
-    // Verilen iki sayının toplamını -sıfırdan büyük veya eşit olabilir- hesaplamak ve yazdırmak için
-    // bir program oluşturalım.
-    // Eğer verilen tamsayıların veya toplamın 10'dan fazla basamağı varsa, "Fazla Yüklenme" yazdıralım
+    // Soru 12). Verilen iki sayının toplamını -sıfırdan büyük veya eşit olabilir- hesaplamak ve yazdırmak için
+    //           bir program oluşturalım.
+    //           Eğer verilen tamsayıların veya toplamın 10'dan fazla basamağı varsa, "Fazla Yüklenme" yazdıralım
 
     public static void main(String[] args) {
 

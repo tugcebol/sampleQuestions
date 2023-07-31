@@ -2,12 +2,8 @@ package week01.sout_syso;
 
 public class P01 {
 
-    // Soru 1-) Dairenin alanini ve cevresini hesaplayan java kodu yaziniz.
-    // Ipuclari:
-    //* r=7;
-    //* Pi=3.14
-    //* Dairenin Cevresi : 2*Pi*r
-    //* Dairenin Alani : Pi*r*r
+    // Soru 1). Dairenin alanini ve cevresini hesaplayan java kodu yaziniz.
+
 
     public static void main(String[] args) {
 

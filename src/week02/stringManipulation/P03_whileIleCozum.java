@@ -1,14 +1,14 @@
-package week02.loops;
+package week02.stringManipulation;
 
 import java.util.Scanner;
 
-public class P01_whileIleCozum {
+public class P03_whileIleCozum {
 
-    // Kullanıcıdan bir isim ve bir karakter girmesini isteyin, ardından isimde karakterin kaç kez tekrarlandığını kontrol edelim.
-    // Örnek:
-    // char ch1 = 'a'
-    // String name = "Ali bakkala geç gitti."
-    // Beklenen Çıktı = a sayısı = 3
+    // Soru 14). Kullanıcıdan bir isim ve bir karakter girmesini isteyin, ardından isimde karakterin kaç kez tekrarlandığını kontrol edelim.
+    //           Örnek:
+    //           char ch1 = 'a'
+    //           String name = "Ali bakkala geç gitti."
+    //           Beklenen Çıktı = a sayısı = 3
 
     public static void main(String[] args) {
 

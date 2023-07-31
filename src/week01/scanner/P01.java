@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class P01 {
 
-    // Soru 3-) Kullanicidan 5 tane sayi alin,
-    // alinan bu sayilarin ortalamasini hesaplayan java kodunu yaziniz.
+    // Soru 3). Kullanicidan 5 tane sayi alin,
+    //          alinan bu sayilarin ortalamasini hesaplayan java kodunu yaziniz.
 
     public static void main(String[] args) {
 

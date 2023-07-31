@@ -2,10 +2,8 @@ package week01.sout_syso;
 
 public class P02 {
 
-    // Soru-2) Dikdortgenin alanini ve cevresini hesaplayan kodu yaziniz.
-    // Ipuclari:
-    //* Dikdortgenin Cevresi: 2 * (uzun kenar + kisa kenar)
-    //* Dikdortgenin Alani : uzun kenar * kisa kenar
+    // Soru 2). Dikdortgenin alanini ve cevresini hesaplayan kodu yaziniz.
+
 
     public static void main(String[] args) {
 

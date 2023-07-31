@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class P01 {
 
-    // Char cevap değişkeninin değerini test edelim ve aşağıdaki eylemleri gerçekleştiren bir kod yazalım:
-    // Cevap a ise, konsolda 'İsteğiniz işleniyor' mesajı yazsın
-    // Yanıt b ise, konsolda 'Değerlendirmeniz için yine de teşekkür ederiz' mesajı yazsın
-    // Yanıt c ise 'Üzgünüm şuanda yardımcı olamıyoruz' mesajı,
-    // Yanıtın başka bir değeri için ise 'Geçersiz giriş, lütfen tekrar deneyin!' mesajı yazdırılsın.
+    // Soru 13). Char cevap değişkeninin değerini test edelim ve aşağıdaki eylemleri gerçekleştiren bir kod yazalım:
+    //           Cevap a ise, konsolda 'İsteğiniz işleniyor' mesajı yazsın
+    //           Yanıt b ise, konsolda 'Değerlendirmeniz için yine de teşekkür ederiz' mesajı yazsın
+    //           Yanıt c ise 'Üzgünüm şuanda yardımcı olamıyoruz' mesajı,
+    //           Yanıtın başka bir değeri için ise 'Geçersiz giriş, lütfen tekrar deneyin!' mesajı yazdırılsın.
 
     public static void main(String[] args) {
 

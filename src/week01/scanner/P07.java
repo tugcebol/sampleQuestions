@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class P07 {
 
-    // Girilen zamanı saniyeye çeviriniz.
-    // Örnek: 2 saat 3 dakika 10 saniye ==>	 7390 saniye
+    // Soru 9). Girilen zamanı saniyeye çeviriniz.
+    //          Örnek: 2 saat 3 dakika 10 saniye ==>	 7390 saniye
 
     public static void main(String[] args) {
 

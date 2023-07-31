@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class P02 {
 
-    // Soru 4-)  Kullanıcıdan bir sayı alın ve aldiginiz bu sayının küpünün yarısını konsola yazdırin.
+    // Soru 4). Kullanıcıdan bir sayı alın ve aldiginiz bu sayının küpünün yarısını konsola yazdırin.
 
     public static void main(String[] args) {
 
